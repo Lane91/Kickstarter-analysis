@@ -1,4 +1,4 @@
-# Kickstarter Challenge
+# Kickstarter Analysis
 
 ## Overview of Project
 ### Purpose
